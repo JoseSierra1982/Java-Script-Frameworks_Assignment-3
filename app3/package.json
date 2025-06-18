@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "app3",
+  "version": "1.0.0",
+  "main": "app3.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
