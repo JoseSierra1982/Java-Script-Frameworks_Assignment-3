@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "app2",
+  "version": "1.0.0",
+  "main": "app2.js",
+     "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
