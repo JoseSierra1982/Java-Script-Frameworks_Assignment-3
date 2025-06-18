@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Banff National Park",
+    "province": "Alberta",
+    "entryFee": 10.5
+  },
+  {
+    "name": "Niagara Falls",
+    "province": "Ontario",
+    "entryFee": 0.0
+  },
+  {
+    "name": "CN Tower",
+    "province": "Ontario",
+    "entryFee": 43.0
+  },
+  {
+    "name": "Old Quebec",
+    "province": "Quebec",
+    "entryFee": 0.0
+  },
+  {
+    "name": "Whistler",
+    "province": "British Columbia",
+    "entryFee": 0.0
+  },
+  {
+    "name": "Peggys Cove",
+    "province": "Nova Scotia",
+    "entryFee": 0.0
+  }
+]
