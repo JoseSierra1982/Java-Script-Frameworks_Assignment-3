@@ -45,6 +45,5 @@ Running application output
 
 Postman CRUD test example
 
-🔗 GitHub Repository Link
 [Click here to view the GitHub repository](https://github.com/JoseSierra1982/Java-Script-Frameworks_Assignment-3.git)
 
