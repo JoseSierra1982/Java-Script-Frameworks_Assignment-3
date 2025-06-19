@@ -3,7 +3,7 @@
   "type": "module",
   "name": "assignment-3---lab",
   "version": "1.0.0",
-  "main": "app3.js",
+  "main": "project.js",
   "scripts": {
   "start1": "nodemon app1.js",
   "start2": "nodemon app2.js",
