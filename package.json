@@ -1,0 +1,28 @@
+{
+  "name": "assignment-3---lab",
+  "version": "1.0.0",
+  "main": "app3.js",
+  "scripts": {
+  "start1": "nodemon app1.js",
+  "start2": "nodemon app2.js",
+  "start3": "nodemon app3.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseSierra1982/Java-Script-Frameworks_Assignment-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseSierra1982/Java-Script-Frameworks_Assignment-3/issues"
+  },
+  "homepage": "https://github.com/JoseSierra1982/Java-Script-Frameworks_Assignment-3#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
