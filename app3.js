@@ -4,32 +4,36 @@ import express from 'express'
 import data from './data/topVisit.json' with {type : 'json'}
 
 const app = express()
-const port = 3000
+const PORT = 3000
 
 app.get('/', (req, res) => {
   res.send('welcome visiting Canada !');
 })
 
 //Get
+
 app.get('/visit', (req, res) => {
   res.json(data);
 })
 
 //Create
+
 app.post('/', (req, res) => {
   res.send("create demo using post()");
 })
 
 //Update
+
 app.put('/', (req, res) => {
   res.send("update demo using put()");
 })
 
 //Delete
+
 app.delete('/',(req,res)=> {
   res.send("delete demo using delete()")
 })
 
-app.listen(port, () => {
-  console.log(`Our app : http://localhost:${port}/`)
+app.listen(PORT, () => {
+  console.log(`Our app : http://localhost:${PORT}/`)
 })
