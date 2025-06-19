@@ -1,8 +1,8 @@
-# Lab-Assignment#3 – JavaScript (ES6), Node.js & API Demo
+# Lab-Assignment#3
 
 ## 📁 Project Overview
 
-This project demonstrates my understanding of:
+This project demonstrates our understanding of:
 
 - Modern JavaScript (ES6+)
 - Node.js project setup with `package.json`
@@ -35,15 +35,8 @@ npm run start1
 npm run start2
 npm run start3
 
-See the PDF file submitted with this assignment for:
 
-VS Code folder structure
 
-Terminal showing project path
-
-Running application output
-
-Postman CRUD test example
 
 [Click here to view the GitHub repository](https://github.com/JoseSierra1982/Java-Script-Frameworks_Assignment-3.git)
 
