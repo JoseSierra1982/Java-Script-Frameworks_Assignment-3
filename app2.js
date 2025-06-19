@@ -17,12 +17,12 @@ app.get('/visits', (req, res) => {
     // Add each place as a list item in the HTML
     html += `<li>LandMark ${LandMark++} : ${page.name} - Province: ${page.province} - Entry Fee: ${page.entryFee}</li>`;
   });
-  // Close the HTML list
+
   html += '</ul>';
   // Send the completed HTML as a response to the browser
   res.send(html);
 });
-// Start the server and log a message to the console
+
 app.listen(PORT, () => {
   console.log(`App2 Server Running on : http://localhost:${PORT}/visits`);
 });
