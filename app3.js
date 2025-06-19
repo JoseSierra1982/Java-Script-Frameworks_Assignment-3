@@ -1,7 +1,7 @@
 //minimal and flexible Node.js web framework used to build web servers and APIs
 import express from 'express'
 //required in ES modules (ESM) to explicitly tell Node.js that you're importing a JSON file
-import data from './data/topVisit.json' assert{type : 'json'}
+import data from './data/topVisit.json' with {type : 'json'}
 
 const app = express()
 const port = 3000

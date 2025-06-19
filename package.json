@@ -1,4 +1,6 @@
 {
+  
+  "type": "module",
   "name": "assignment-3---lab",
   "version": "1.0.0",
   "main": "app3.js",
