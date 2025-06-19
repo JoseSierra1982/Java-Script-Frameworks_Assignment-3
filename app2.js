@@ -24,5 +24,5 @@ app.get('/visits', (req, res) => {
 });
 // Start the server and log a message to the console
 app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}/visits`);
+  console.log(`App2 Server Running on : http://localhost:${PORT}/visits`);
 });
